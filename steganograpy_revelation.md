@@ -61,7 +61,8 @@ $ pngcheck -pv output.png
  We will use `pngTweak` for this purpose. Install it and open the recovered image in it.
  
  In its output column change the height of the image. You will se some part of the image is revealed. Make `height=2000`. Ta da flag appears.
+ ![Tool](revelation.png)
  
  *Flag :*
- `CsecIITB{}`
+ > CsecIITB{s0_yoU_Do_kN0w_7h3_ch4Rm}
 
