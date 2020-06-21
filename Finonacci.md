@@ -1,5 +1,5 @@
 # CsecIITB CTF 2020
-## Category: Web
+## Category: Misc
 ## Challenge: Fibonacci
 ## Points: 500
 ### Description:
