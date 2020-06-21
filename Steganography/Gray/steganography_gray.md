@@ -4,7 +4,17 @@
 ## Points: 500
 ### Description:
 
-> Let's play a game of Hide and Seek, shall we? :D [hidenseek.png](https://ctf.cseciitb.in/files/bff9fe32d551abdb975521adf86ef54c/hidenseek.png?token=eyJ1c2VyX2lkIjo2NywidGVhbV9pZCI6NDMsImZpbGVfaWQiOjQxfQ.Xu9S6g.Q6nQbTt1oJV1-KEAkrLNpDbCZl4)
+> Everything is gray
+
+His hair, his smoke, his dreams
+
+And now he's so devoid of color
+
+He don't know what it means
+
+- Colors by Halsey
+
+[gray.png](https://ctf.cseciitb.in/files/5850778be620213a440469ca9da01515/gray.png?token=eyJ1c2VyX2lkIjo2NywidGVhbV9pZCI6NDMsImZpbGVfaWQiOjM3fQ.Xu--oQ.nk5sS4P8i1CuNQ0K0AFDEzq6fSo)
 
 ### Idea:
 Steganography just go to [Forensically Beta](https://29a.ch/photo-forensics/). There just move the magnifier on it you will found some 
