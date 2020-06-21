@@ -1,6 +1,6 @@
 # CsecIITB CTF 2020
 ## Category: Forensics
-## Challenge: EXampleIF
+## Challenge: gitGood
 ## Points: 500
 ### Description:
 

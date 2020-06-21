@@ -1,6 +1,6 @@
 # CsecIITB CTF 2020
 ## Category: Web
-## Challenge: ACM-CSS'20
+## Challenge: FCMD
 ## Points: 500
 ### Description:
 
