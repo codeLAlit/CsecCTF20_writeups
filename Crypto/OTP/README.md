@@ -1,6 +1,6 @@
 # CsecIITB CTF 2020
-## Category: Misc
-## Challenge: Fibonacci
+## Category: Crypto
+## Challenge: OTP
 
 ![](Capture.png)
 
