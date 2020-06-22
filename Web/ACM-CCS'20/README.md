@@ -4,9 +4,9 @@
 ## Points: 500
 ### Description:
 
-> Raj set up his ultra super-duper excruciatingly secure Login system. He even wrote and submitted his paper on it to ACM-CCS'20. The jury consisted of world renowned scientists from the field of Securinti like Akash Dr. Drehan, Dr. Nude Cheetah Nayak, Dr. Lak ssh Kumar and Dr. Him And She Ran Away, sorry, I mean Dr. Himanshu. My bad! I alopogize.
-Somehow it seems that, even these veritably eminent people couldn't fathom the gravity of this Login system and straightaway rejected it!! I wonder why!? Can you help Raj unearth the cause?
-The Login system can be found at http://ctf.cseciitb.in:1337
+![Question](acm.png)
+
+
 
 ### Idea: 
 

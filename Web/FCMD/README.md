@@ -4,8 +4,7 @@
 ## Points: 500
 ### Description:
 
-> Feeling Cute Might Delete :P
-My cuteness can be accessed at http://ctf.cseciitb.in:2337
+![Question](fcmd.png)
 
 ### Idea: 
 On first glance the code appear to be taking only two arguments from the url i.e. "a" and "b". So we can get the flag by forming non-empty query like `ctf.cseciitb.in:2337/?a='1'&b='1'`. But nothing come out. To see where the code failed copy everything to local

@@ -5,6 +5,7 @@
 ### Description:
 
 ![Question](pirates.png)
+
 Image available in repo.
 
 ### Idea:

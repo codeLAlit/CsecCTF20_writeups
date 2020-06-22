@@ -5,6 +5,7 @@
 ### Description:
 
 ![Question](magic_q.png)
+
 Image available in repo.
 
 ### Idea:
