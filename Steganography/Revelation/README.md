@@ -4,7 +4,8 @@
 ## Points: 500
 ### Description:
 
-> Let's play a game of Hide and Seek, shall we? :D [hidenseek.png](https://ctf.cseciitb.in/files/bff9fe32d551abdb975521adf86ef54c/hidenseek.png?token=eyJ1c2VyX2lkIjo2NywidGVhbV9pZCI6NDMsImZpbGVfaWQiOjQxfQ.Xu9S6g.Q6nQbTt1oJV1-KEAkrLNpDbCZl4)
+![Question](rev.png)
+Image available in repo.
 
 ### Idea:
 If you try to open the image in Ubuntu it will show image is corrupted but in Windows the image will open. We will try to open it 

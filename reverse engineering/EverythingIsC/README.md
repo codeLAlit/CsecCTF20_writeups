@@ -4,8 +4,8 @@
 ## Points: 500
 ### Description:
 
-> Are you looking close enough? Or are you busy interpreting my messages. Flag is NOT in standard form
- [everythingIsCIfYouLookCloseEnough.cpython-36.pyc](https://ctf.cseciitb.in/files/bee8ee6ebd3381b91f5e5a0dc56fc4f6/everythingIsCIfYouLookCloseEnough.cpython-36.pyc?token=eyJ1c2VyX2lkIjo2NywidGVhbV9pZCI6NDMsImZpbGVfaWQiOjYyfQ.Xu-Ung.iwI0BTUXiqQB4RHrLnI9tHt4VG0)
+![Question](eic.png)
+Program available in repo.
 
 ### Idea:
 The given file is compiled version of a python code. We need to first get the source code by decompiling it. Later we will see what is in the code. Since it is 500 points challenge what is inside the code is not going to be straight copy paste.

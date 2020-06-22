@@ -4,8 +4,8 @@
 ## Points: 500
 ### Description:
 
-> I wanted to show you guys my magic. But it keeps saying your file format is not supported. 
-  At this point i wonder what formats really are [magic.png](https://ctf.cseciitb.in/files/36f0291674c138d93b8e46f31c2bc69a/magic.png?token=eyJ1c2VyX2lkIjo2NywidGVhbV9pZCI6NDMsImZpbGVfaWQiOjYxfQ.Xu9PdA.jZDQ0Nv_-UVdoVRY4R537-xGIzI)
+![Question](magic_q.png)
+Image available in repo.
 
 ### Idea:
 

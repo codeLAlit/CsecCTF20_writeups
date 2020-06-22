@@ -4,8 +4,8 @@
 ## Points: 500
 ### Description:
 
-> git is good, only if you could open it somehow
-[gitGood.zip](https://ctf.cseciitb.in/files/6742d071836b4792aed48d65cf2b2c39/gitGood.zip?token=eyJ1c2VyX2lkIjo2NywidGVhbV9pZCI6NDMsImZpbGVfaWQiOjY5fQ.Xu-zdQ.cdlWWJ2sastbogAjxQsT0RIlnEg)
+![Question](gitgood.png)
+Zip available in repo.
 
 ### Idea:
 The zip is password protected. There is a file `flag.txt` and `.git` folder in it. One first glance it appears that the flag will be in any of the version of the `flag.txt`.
