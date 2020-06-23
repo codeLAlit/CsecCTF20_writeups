@@ -9,7 +9,7 @@
 Image available in repo.
 
 ### Idea:
-This is an easy problem. We have and image and need a flag just see if there is something encoded.
+This is an easy problem. We have an image and need a flag, just see if there is something encoded.
 
 Using [Forensically Beta](https://29a.ch/photo-forensics/) and seeing the string extraction data we get our flag.
 Facchas rejoice.
